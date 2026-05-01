@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 140
+
+[tool.ruff.lint]
+exclude = [".venv"]
+ignore = [
+    "C406", "E226", "E402", "E702", "E703",
+    "E722", "E731", "E741",
+]
