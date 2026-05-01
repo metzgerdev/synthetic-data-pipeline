@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.db
+*.log
+eval_results/
+repair_dataset_*.json
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
